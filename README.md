@@ -8,4 +8,4 @@ Ce projet propose une solution optimale au jeu de dés **Can't Stop** en utilisa
 
 ## 💻 Stack Technique
 - **Langage C** : Pour la rapidité des calculs de convergence.
-- **Python** : Pour les scripts de test et de simulation.
+- **Python** : Pour les scripts de test et de simulation. 
